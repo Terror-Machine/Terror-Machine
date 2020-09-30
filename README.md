@@ -18,7 +18,7 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Terror-Machine&show_icons=true&theme=radical)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Terror-Machine&layout=compact&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Terror-Machine&repo=fnbots&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Terror-Machine&repo=fn-whatsapp-bot&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Terror-Machine&repo=Archimed&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Terror-Machine&repo=PySambungKata&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Terror-Machine&repo=wa-automate-nodejs&theme=nightowl)
