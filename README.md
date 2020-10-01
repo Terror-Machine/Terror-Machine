@@ -8,7 +8,7 @@
 - Python
 - Javascript
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 ### 📫 Feel free to contact me anytime
 [<img src="https://img.shields.io/badge/Telegram-%40myarfine-blue">](https://t.me/myarfine)
