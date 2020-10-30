@@ -2,6 +2,7 @@
 
 <img align="right" alt="GIF" height="125px" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" />
 <img align="right" alt="GIF" height="125px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
+<img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
 
 :page_with_curl: I'm currently learning:
 - Golang 
@@ -21,6 +22,6 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=Terror-Machine&show_icons=true&theme=radical)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Terror-Machine&layout=compact&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Terror-Machine&repo=fn-whatsapp-bot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Terror-Machine&repo=whatsapp-bot-go&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Terror-Machine&repo=Archimed&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Terror-Machine&repo=PySambungKata&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Terror-Machine&repo=wa-automate-nodejs&theme=nightowl)
