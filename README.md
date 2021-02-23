@@ -24,4 +24,3 @@
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Terror-Machine&repo=fn-whatsapp-bot&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Terror-Machine&repo=whatsapp-bot-go&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Terror-Machine&repo=Archimed&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Terror-Machine&repo=wa-automate-nodejs&theme=nightowl)
